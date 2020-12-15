@@ -5,7 +5,7 @@ function msg() {
   alert("Registrado com Sucesso");
 }
 
-export default function Button(props) {
+export default function Registration_Button(props) {
   return (
     <>
       <div className="alert-button">
