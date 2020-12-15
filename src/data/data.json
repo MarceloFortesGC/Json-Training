@@ -1,8 +1,11 @@
 [
   {
     "header": {
-      "h1": "Hello World",
-      "p": "test"
+      "home": "Home",
+      "pag1": "Link1"
+    },
+    "button": {
+      "registration_button": "Registrar-se"
     }
   }
 ]
