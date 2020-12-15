@@ -1,11 +1,15 @@
 import React from "react";
 import "./styles.css";
-import Textos from "./components/Textos";
+import Header from "./components/header/Header";
+import Home from "./pages/Home";
 
 function App() {
   return (
     <div className="App">
-      <Textos />
+      <div className="container">
+        <Header />
+        <Home />
+      </div>
     </div>
   );
 }

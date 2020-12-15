@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  font-family: system-ui;
+}
+
+.container {
+  padding: 20px 100px;
+}
+
+.header a {
+  padding: 20px;
+  text-decoration: none;
+  color: black;
+  transition: 300ms;
+}
+
+.header a:hover {
+  background-color: gray;
+  color: white;
+}
+
+.body-home {
+  min-height: 100px;
+  padding-top: 100px;
+}
+
+.alert-button button {
+  padding: 20px;
+  background-color: #1e82b4;
+  color: white;
+  border: none;
+  border-radius: 12px;
+  transition: 300ms;
+}
+
+.alert-button button:hover {
+  background-color: #2651ac;
+  border-radius: 20px;
+}
